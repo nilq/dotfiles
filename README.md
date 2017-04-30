@@ -1,2 +1,7 @@
 # dotfiles
-i am bb hacker man
+
+my i3 things ..
+
+## setup
+
+iirc, just install compton?
